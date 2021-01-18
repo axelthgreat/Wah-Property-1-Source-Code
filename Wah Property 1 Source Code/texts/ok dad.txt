@@ -1,0 +1,12 @@
+[
+xmin 10
+ymin 17
+xmax 1089
+ymax 296
+][
+font 26
+height 300
+letterspacing 15
+color #000000
+y 280
+]ok dad

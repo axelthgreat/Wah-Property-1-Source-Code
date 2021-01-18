@@ -1,0 +1,12 @@
+[
+xmin 20
+ymin 17
+xmax 722
+ymax 292
+][
+font 26
+height 300
+letterspacing -3
+color #000000
+y 280
+]milk

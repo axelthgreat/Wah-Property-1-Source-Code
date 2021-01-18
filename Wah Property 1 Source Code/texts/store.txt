@@ -1,0 +1,12 @@
+[
+xmin 9
+ymin 22
+xmax 855
+ymax 296
+][
+font 26
+height 300
+letterspacing 16
+color #000000
+y 280
+]store
